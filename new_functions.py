@@ -26,4 +26,4 @@ def random_text():
     letters = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ ' + ' ' * 7
     length = random.randint(20, 100)  # Генерация случайной длины
     return ''.join(random.choice(letters) for i in range(length))
-print( "Dbnfkz ,jnbr")
+#commit
